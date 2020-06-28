@@ -1,12 +1,9 @@
 :root {
         --title: 'Ladkan';
-        --logo: url(https://cdn.discordapp.com/attachments/476154188494143498/675832706386362398/ALPHA4.gif);
-        --background: url(https://cdn.discordapp.com/attachments/476154188494143498/680898001346363415/appear.jpg);
         --font: 'Quicksand';
-        --Primary: rgb(130, 0, 216);
-        --animation: var(--Primary), rgb(0, 225, 255);
+        --Primary: rgb(219, 8, 8);
         --Online: rgb(0, 255, 136);
-        --Idle: rgb(0, 99, 156);
+        --Idle: rgb(210, 231, 20);
         --Unavailable: rgb(228, 15, 0);
         --Offline: rgb(90, 95, 100);
         --Playing: url(https://cdn.discordapp.com/attachments/476154188494143498/680898006937370645/provenance.jpg);
@@ -40,7 +37,7 @@
         --EmojiHover: '😜';
         --Community: 'purpies';
         --WelcomeMessage: 'Theme base designed by Purple Wizard.';
-        --Watermark: 'Made with 💖 by Purple Wizard';
+        --Watermark: '(c) Ladkan';
         --EditStatus: 'Put another status';
         --Folders: '📁';
         --FoldersOpen: '💠';
