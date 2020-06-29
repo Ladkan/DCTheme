@@ -126,6 +126,10 @@
   --spotify-green-dark: #168d40;
   --twitch-purple: #593695;
   --twitch-purple-dark: #4e2f82;
+  --Online: rgb(0, 255, 136);
+  --Idle: rgb(210, 231, 20);
+  --Unavailable: rgb(228, 15, 0);
+  --Offline: rgb(90, 95, 100);
 }
 ::-webkit-input-placeholder, body, button, input, select, textarea {
   font-family: var(--font, "Roboto"), Whitney;
