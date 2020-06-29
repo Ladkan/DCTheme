@@ -130,6 +130,9 @@
   --Idle: rgb(210, 231, 20);
   --Unavailable: rgb(228, 15, 0);
   --Offline: rgb(90, 95, 100);
+  --Close: '+';
+  --Resize: '-';
+  --Hide: 'o';
 }
 ::-webkit-input-placeholder, body, button, input, select, textarea {
   font-family: var(--font, "Roboto"), Whitney;
