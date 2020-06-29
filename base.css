@@ -22,7 +22,7 @@
   --dropdown: #1e2127;
   --dropdown-header: #252830;
   --dropdown-item-hover: #22262d;
-  --message-box: #8f1111;
+  --message-box: #1b1e23;
   --message-box-divider: #20242a;
   --message-embed: #171a1f;
   --message-button: #2d323c;
@@ -126,13 +126,6 @@
   --spotify-green-dark: #168d40;
   --twitch-purple: #593695;
   --twitch-purple-dark: #4e2f82;
-  --Online: rgb(0, 255, 136);
-  --Idle: rgb(210, 231, 20);
-  --Unavailable: rgb(228, 15, 0);
-  --Offline: rgb(90, 95, 100);
-  --Close: '+';
-  --Resize: '-';
-  --Hide: 'o';
 }
 ::-webkit-input-placeholder, body, button, input, select, textarea {
   font-family: var(--font, "Roboto"), Whitney;
